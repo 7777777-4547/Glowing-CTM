@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_command_block",
+  "textures": {
+    "front": "minecraft:block/command_block_front",
+    "back": "minecraft:block/command_block_back",
+    "side": "minecraft:block/command_block_conditional",
+    "front_glow": "minecraft:block/command_block_front_e",
+    "back_glow": "minecraft:block/command_block_back_e",
+    "side_glow": "minecraft:block/command_block_conditional_e"
+  }
+}

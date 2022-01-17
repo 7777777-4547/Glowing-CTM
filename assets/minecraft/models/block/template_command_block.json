@@ -1,0 +1,18 @@
+{
+    "parent": "block/cube_directional_glowbase",
+    "textures": {
+        "particle": "#back",
+        "down": "#side",
+        "up": "#side",
+        "north": "#front",
+        "east": "#side",
+        "south": "#back",
+        "west": "#side",
+        "down_glow": "#side_glow",
+        "up_glow": "#side_glow",
+        "north_glow": "#front_glow",
+        "east_glow": "#side_glow",
+        "south_glow": "#back_glow",
+        "west_glow": "#side_glow"
+    }
+}

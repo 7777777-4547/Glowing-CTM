@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_chorus_flower_glowbase",
+  "textures": {
+    "texture": "minecraft:block/chorus_flower",
+    "glow_texture":"minecraft:block/chorus_flower_e"
+  }
+}

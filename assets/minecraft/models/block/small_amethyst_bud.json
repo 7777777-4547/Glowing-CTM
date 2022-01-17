@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_glowbase",
+  "textures": {
+    "cross": "minecraft:block/small_amethyst_bud",
+    "cross_glow": "minecraft:block/small_amethyst_bud_e"
+  }
+}
