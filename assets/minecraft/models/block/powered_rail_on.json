@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/rail_flat_glowbase",
+  "textures": {
+    "rail": "minecraft:block/powered_rail_on",
+    "glow": "minecraft:block/powered_rail_on_e"
+  }
+}
