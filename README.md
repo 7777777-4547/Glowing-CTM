@@ -1,7 +1,7 @@
 <div align=center>
     <img src="./pack.png" width="128">
     <h2>Glowing</h2>
-    Use [CTM](https://www.curseforge.com/minecraft/mc-mods/ctm)/[CTMF](https://www.curseforge.com/minecraft/mc-mods/ctm-fabric) let some block glow
+    Use ConnectedTextureModTM/ConnectedTextureMod for Fabric let some block glow
     <h2>Showcase</h2>
 <br/>
   <img src="https://raw.githubusercontent.com/7777777-4547/Glowing-OF/img/img/2022-01-18_13.57.42.png">
