@@ -16,7 +16,7 @@
 <br/>
     <img src="https://raw.githubusercontent.com/7777777-4547/Glowing-CTM/img/img/2022-01-01_19.40.22.png">
 <br/>
-    <img src="https://raw.githubusercontent.com/7777777-4547/Glowing-OF/img/img/2022-06-11_20.31.32.png">
+    <img src="https://raw.githubusercontent.com/7777777-4547/Glowing-CTM/img/img/2022-07-08_00.11.37.png">
 <br/>
     <img src="https://raw.githubusercontent.com/7777777-4547/Glowing-CTM/img/img/GIF 2022-4-16 23-09-59.gif" height="325">
 </div>
